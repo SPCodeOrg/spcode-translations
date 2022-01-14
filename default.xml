@@ -1,0 +1,278 @@
+<translations>
+  <language>English</language>
+  <file>File</file>
+  <serverrunning>Server running</serverrunning>
+  <saving>Saving</saving>
+  <savingufiles>Save all unsaved files?</savingufiles>
+  <compileall>Compile all</compileall>
+  <compilecurrent>Compile current</compilecurrent>
+  <copy>Copy</copy>
+  <uploadftp>FTP Upload</uploadftp>
+  <startserver>Start server</startserver>
+  <replace>Replace</replace>
+  <replaceall>Replace all</replaceall>
+  <opennewfile>Open new file</opennewfile>
+  <nofileopened>No files opened</nofileopened>
+  <nofileopenedcap>None of the selected files could be opened.</nofileopenedcap>
+  <savefileas>Save file as</savefileas>
+  <savefollow>Save following files</savefollow>
+  <chdecomp>Select plugin to decompile</chdecomp>
+  <decompiling>Decompiling</decompiling>
+  <editconfig>Edit Configurations</editconfig>
+  <foundinoff>Found in offset {0} with length {1}</foundinoff>
+  <foundnothing>Found nothing</foundnothing>
+  <replacedoff>Replaced in offset {0}</replacedoff>
+  <replacedocc>Replaced {0} occurrences in {1} documents</replacedocc>
+  <occfound>occurrences found</occfound>
+  <emptypatt>Empty search pattern</emptypatt>
+  <novalidregex>No valid regex pattern</novalidregex>
+  <failedcheck>Failed to check</failedcheck>
+  <errorupdate>Error while checking for updates.</errorupdate>
+  <versuptodate>Version up to date</versuptodate>
+  <versionyour>Your program version {0} is up to date.</versionyour>
+  <versionyourbeta>Your beta program version {0} is up to date.</versionyourbeta>
+  <details>Details</details>
+  <compiling>Compiling</compiling>
+  <error>Error</error>
+  <spcompnotstarted>The spcomp.exe compiler did not start correctly.</spcompnotstarted>
+  <spcompnotfound>The spcomp.exe compiler could not be found.</spcompnotfound>
+  <copied>Copied</copied>
+  <deleted>Deleted</deleted>
+  <failcopy>Failed to copy</failcopy>
+  <nofilescopy>No files copied</nofilescopy>
+  <uploaded>Uploaded</uploaded>
+  <erroruploadfile>Error while uploading file: {0} to {1}</erroruploadfile>
+  <errorupload>Error while uploading files</errorupload>
+  <done>Done</done>
+  <filestr>File</filestr>
+  <new>New</new>
+  <newtemplate>New from Template</newtemplate>
+  <open>Open</open>
+  <save>Save</save>
+  <dontsave>Don't save</dontsave>
+  <saveall>Save all</saveall>
+  <saveas>Save as</saveas>
+  <close>Close</close>
+  <closeall>Close all</closeall>
+  <build>Build</build>
+  <copyplugins>Copy Plugins</copyplugins>
+  <sendrcon>Send RCON Commands</sendrcon>
+  <config>Configuration</config>
+  <edit>Edit</edit>
+  <undo>Undo</undo>
+  <redo>Redo</redo>
+  <cut>Cut</cut>
+  <paste>Paste</paste>
+  <folding>Foldings</folding>
+  <foldingsexpand>Expand all</foldingsexpand>
+  <foldingscollapse>Collapse all</foldingscollapse>
+  <commentline>Comment selection</commentline>
+  <uncommentline>Uncomment selection</uncommentline>
+  <selectall>Select all</selectall>
+  <searchreplace>Find &amp; Replace</searchreplace>
+  <tools>Tools</tools>
+  <options>Options</options>
+  <searchdefinition>Parsed from include directory</searchdefinition>
+  <newapiweb>API Reference</newapiweb>
+  <betaapiweb>(BETA) API Reference</betaapiweb>
+  <reformatter>Syntax reformatter</reformatter>
+  <reformatcurrent>Reformat current</reformatcurrent>
+  <reformatall>Reformat all</reformatall>
+  <decompile>Decompile</decompile>
+  <reportbuggit>Report bug on GitHub</reportbuggit>
+  <checkupdates>Check for updates</checkupdates>
+  <about>About</about>
+  <filename>File Name</filename>
+  <line>Line</line>
+  <typestr>Type</typestr>
+  <normalsearch>Normal search</normalsearch>
+  <matchwholewords>Match whole words</matchwholewords>
+  <advancsearch>Advanced search</advancsearch>
+  <regexsearch>Regex search</regexsearch>
+  <currdoc>Current document</currdoc>
+  <alldoc>All open documents</alldoc>
+  <find>Find</find>
+  <count>Count</count>
+  <casesen>Case sensitive</casesen>
+  <multilineregex>Multiline Regex</multilineregex>
+  <errorfileloadproc>Error while loading and processing the file.</errorfileloadproc>
+  <notdissmethod>Could not disassemble method {0}: {1}</notdissmethod>
+  <dfilechanged>{0} has changed.</dfilechanged>
+  <filechanged>File changed</filechanged>
+  <filetryreload>Try reloading file?</filetryreload>
+  <dsaveerror>An error occured while saving.</dsaveerror>
+  <saveerror>Save error</saveerror>
+  <savingfile>Saving file</savingfile>
+  <ptabb>pt</ptabb>
+  <colabb>Col</colabb>
+  <lnabb>Ln</lnabb>
+  <lenabb>Len</lenabb>
+  <speditcap>a lightweight SourcePawn editor</speditcap>
+  <writtenby>written by: {0}</writtenby>
+  <license>License</license>
+  <peopleinv>People involved</peopleinv>
+  <preview>Preview</preview>
+  <configwrongpars>The config was not able to parse a sourcepawn definition.</configwrongpars>
+  <noname>no name</noname>
+  <poslen>(pos: {0} - len: {1})</poslen>
+  <inheritedfrom>inherited from</inheritedfrom>
+  <methodfrom>Method from</methodfrom>
+  <propertyfrom>Property from</propertyfrom>
+  <search>Search</search>
+  <delete>Delete</delete>
+  <name>Name</name>
+  <scriptdir>Scripting directories</scriptdir>
+  <delimiedwi>delimit with</delimiedwi>
+  <copydir>Copy directory</copydir>
+  <serverexe>Server executable</serverexe>
+  <serverstartargs>Server-start arguments</serverstartargs>
+  <prebuildcom>Pre-Build commandline</prebuildcom>
+  <postbuildcom>Post-Build commandline</postbuildcom>
+  <optimizelvl>Optimization level</optimizelvl>
+  <verboselvl>Verbose level</verboselvl>
+  <autocopy>Auto copy after compile</autocopy>
+  <autoupload>Auto upload .smx after Compile</autoupload>
+  <autorcon>Send RCON Commands after Compile</autorcon>
+  <deleteoldsmx>Delete old .smx after copy</deleteoldsmx>
+  <ftphost>FTP host</ftphost>
+  <ftpuser>FTP user</ftpuser>
+  <ftppw>FTP password</ftppw>
+  <ftpdir>FTP directory</ftpdir>
+  <comeditordir>Directory of the SPEdit binary</comeditordir>
+  <comscriptdir>Directory of the Compiling script</comscriptdir>
+  <comcopydir>Directory where the smx should be copied</comcopydir>
+  <comscriptfile>Full Directory and Name of the script</comscriptfile>
+  <comscriptname>File Name of the script</comscriptname>
+  <compluginfile>Full Directory and Name of the compiled script</compluginfile>
+  <compluginname>File Name of the compiled script</compluginname>
+  <rconengine>RCon server engine</rconengine>
+  <rconip>RCon server IP</rconip>
+  <rconport>RCon server port</rconport>
+  <rconpw>RCon server password</rconpw>
+  <rconcom>RCon Server commands</rconcom>
+  <compluginsreload>Reloads all compiled plugins</compluginsreload>
+  <compluginsload>Loads all compiled plugins</compluginsload>
+  <compluginsunload>Unloads all compiled plugins</compluginsunload>
+  <newconfig>New config</newconfig>
+  <cannotdelconf>Cannot delete config</cannotdelconf>
+  <ycannotdelconf>You cannot delete the default config.</ycannotdelconf>
+  <selectexe>Select executable</selectexe>
+  <cmdlinecom>Commandline variables</cmdlinecom>
+  <rconcmdlinecom>Rcon commandline variables</rconcmdlinecom>
+  <resetoptions>Reset options</resetoptions>
+  <resetoptques>Are you sure, you want to reset the options?</resetoptques>
+  <restarteditor>Restart Editor</restarteditor>
+  <yrestarteditor>You have to restart the editor for the changes to have effect.</yrestarteditor>
+  <restartedifulleff>Restart editor to take full effect...</restartedifulleff>
+  <restartedieff>Restart editor to take effect...</restartedieff>
+  <program>Program</program>
+  <hardwareacc>Use hardware acceleration (if available)</hardwareacc>
+  <uianim>UI animations</uianim>
+  <openinc>Auto open includes</openinc>
+  <openincrec>Open Includes Recursively</openincrec>
+  <autoupdate>Search automatically for updates</autoupdate>
+  <showtoolbar>Show toolbar</showtoolbar>
+  <dynamicisac>Dynamic Autocomplete/Intellisense</dynamicisac>
+  <darktheme>Dark theme</darktheme>
+  <themecolor>Theme Color</themecolor>
+  <languagestr>Language</languagestr>
+  <editor>Editor</editor>
+  <fontsize>Font size</fontsize>
+  <scrollspeed>Scroll speed</scrollspeed>
+  <wordwrap>Word wrap</wordwrap>
+  <aggindentation>Aggressive Indentation</aggindentation>
+  <reformataftersem>Reformatting line after semicolon</reformataftersem>
+  <tabstospace>Replace tabs with spaces</tabstospace>
+  <autoclosebrack>Auto close brackets</autoclosebrack>
+  <autoclosestrchr>Auto close Strings, Chars</autoclosestrchr>
+  <showspaces>Show spaces</showspaces>
+  <showtabs>Show tabs</showtabs>
+  <indentationsize>Indentation size</indentationsize>
+  <fontfamily>Font</fontfamily>
+  <syntaxhigh>Syntax Highlighting</syntaxhigh>
+  <highdeprecat>ntax - NOT SUPPORTED</highdeprecat>, "highlight deprecated (<1.7)</1.7>
+  <compile>Compile</compile>
+  <autosavemin>Auto save (min)</autosavemin>
+  <obtextfile>File Directory</obtextfile>
+  <obtextconfig>Config Directory</obtextconfig>
+  <copyingfiles>Copying files</copyingfiles>
+  <ftpuploading>Uploading files</ftpuploading>
+  <rconcommand>Sending RCON Commands</rconcommand>
+  <javainstallcheck>Checking for Java installation</javainstallcheck>
+  <javanotfoundtitle>Java was not found</javanotfoundtitle>
+  <javanotfoundmessage>
+    SPCode needs Java to decompile plugins, but it couldn't get it to work properly,
+    perhaps due to an absent or incorrect Java installation.
+    Do you wish to download and install it now?
+  </javanotfoundmessage>
+  <javaoutdatedtitle>Java version found is outdated</javaoutdatedtitle>
+  <javaoutdatedmessage>
+    SPCode requires Java 11 SDK or later to decompile plugins,
+    but an outdated version was found.
+    Do you wish to download and upgrade it now?"
+  </javaoutdatedmessage>
+  <failedtodecompile>failed to decompile</failedtodecompile>
+  <downloadingjava>Downloading Java</downloadingjava>
+  <fetchingjava>Fetching installation file from https://adoptopenjdk.net...</fetchingjava>
+  <amountcompleted>completed</amountcompleted>
+  <amountdownloaded>downloaded</amountdownloaded>
+  <javaopened>Java installation file opened</javaopened>
+  <javasuggestrestart>After installing Java, it is highly recommended to restart SPCode.</javasuggestrestart>
+  <javadownerrortitle>Java download error</javadownerrortitle>
+  <javadownerrormessage>SPCode could not download Java by itself. Would you like to download it manually?</javadownerrormessage>
+  <javaopenedbrowser>Java download link opened in browser</javaopenedbrowser>
+  <errorsavingconfigs>Could not save the current configs state</errorsavingconfigs>
+  <duplicateconfignames>You cannot have 2 configs or more with the same name.</duplicateconfignames>
+  <emptyconfignames>You cannot have configs with an empty name.</emptyconfignames>
+  <defaultvalues>Default values</defaultvalues>
+  <wanttoupdate>Do you want to update?</wanttoupdate>
+  <versionavailable>Version {0} is available for download!</versionavailable>
+  <yes>Yes</yes>
+  <no>No</no>
+  <viewgithub>View on GitHub</viewgithub>
+  <updatingto>Updating to {0}</updatingto>
+  <downloadingupdater>Downloading update assets...</downloadingupdater>
+  <startingupdater>Starting updater...</startingupdater>
+  <add>Add</add>
+  <remove>Remove</remove>
+  <hardwareencryption>Hardware encryption</hardwareencryption>
+  <checkingupdates>Checking for updates</checkingupdates>
+  <gotoline>Go to line</gotoline>
+  <gotooffset>Go to offset</gotooffset>
+  <go>Go</go>
+  <hotkey>Hotkey</hotkey>
+  <command>Command</command>
+  <deleteline>Delete line</deleteline>
+  <movelinedown>Move line down</movelinedown>
+  <movelineup>Move line up</movelineup>
+  <dupelinedown>Duplicate line down</dupelinedown>
+  <dupelineup>Duplicate line up</dupelineup>
+  <inuse>In use!</inuse>
+  <reserved>Reserved!</reserved>
+  <transformuppercase>Transform to uppercase</transformuppercase>
+  <transformlowercase>Transform to lowercase</transformlowercase>
+  <openfilelocation>Open file location</openfilelocation>
+  <opendirlocation>Open directory location</opendirlocation>
+  <rename>Rename</rename>
+  <accept>Accept</accept>
+  <cancel>Cancel</cancel>
+  <emptyname>Empty name!</emptyname>
+  <namealreadyexists>File name taken!</namealreadyexists>
+  <empty>Empty</empty>
+  <searchfiles>Search files</searchfiles>
+  <searchresults>Search results</searchresults>
+  <noresultsthisdir>No results on this directory!</noresultsthisdir>
+  <filenotsupported>File not supported!</filenotsupported>
+  <filewillbeexcluded>The file will be excluded from the file browser once renamed.</filewillbeexcluded>
+  <expandalldirs>Expand all directories</expandalldirs>
+  <collapsealldirs>Collapse all directories</collapsealldirs>
+  <refreshob>Reload current directory</refreshob>
+  <enablerpc>Enable Discord Rich Presence</enablerpc>
+  <enablerpctime>Show elapsed time</enablerpctime>
+  <enablerpcfile>Show current file</enablerpcfile>
+  <templateexists>Template name already exists</templateexists>
+  <illegalcharacters>Illegal characters</illegalcharacters>
+  <reopenlastclosedtab>Reopen the last closed tab</reopenlastclosedtab>
+  <defaulttaken>Default taken!</defaulttaken>
+  <actioncloseprompt>Prompt whether to save</actioncloseprompt>
+</translations>
