@@ -1,197 +1,278 @@
 <translations>
   <language>Français</language>
+  <file>Fichier</file>
   <serverrunning>Serveur lancé</serverrunning>
-  <saving>Sauvgarde</saving>
-  <saveufiles>Sauvgarder tout les fichiers non-sauvgardés?</saveufiles>
+  <saving>Sauvegarde</saving>
+  <savingufiles>Enregistrer tous les fichiers non-sauvegardés ?</savingufiles>
   <compileall>Tout compiler</compileall>
-  <compilecurr>Compiler</compilecurr>
+  <compilecurrent>Compiler le fichier actuel</compilecurrent>
   <copy>Copier</copy>
-  <ftpup>Envoie FTP</ftpup>
+  <uploadftp>Envoi FTP</uploadftp>
   <startserver>Lancer le serveur</startserver>
   <replace>Remplacer</replace>
   <replaceall>Tout remplacer</replaceall>
-  <opennewfile>Ouvrire un nouveau fichier</opennewfile>
-  <nofilopened>Aucun fichier ouvert.</nofilopened>
-  <nofileopenedcap>Aucun des fichiers sélectionés peut-être ouvert.</nofileopenedcap>
-  <savefileas>Sauvgarder sous</savefileas>
-  <savefollow>Sauvgarder les fichiers suivant</savefollow>
-  <chdecomp>Selectionner le plugin à décompiler</chdecomp>
+  <opennewfile>Ouvrir un nouveau fichier</opennewfile>
+  <nofileopened>Aucun fichier ouvert.</nofileopened>
+  <nofileopenedcap>Aucun des fichiers sélectionnés peut être ouvert.</nofileopenedcap>
+  <savefileas>Enregistrer sous</savefileas>
+  <savefollow>Enregistrer les fichiers suivants</savefollow>
+  <chdecomp>Selectionnez le plugin à décompiler</chdecomp>
   <decompiling>Décompilation</decompiling>
   <editconfig>Modifier la configuration</editconfig>
-  <foundinoff>Trouvé dans l'offset {0} avec un longueur de {1}</foundinoff>
+  <foundinoff>Trouvé dans l'offset {0} avec une longueur de {1}</foundinoff>
   <foundnothing>Rien trouvé</foundnothing>
-  <replacedoff>Remplacer dans l'offset {0}</replacedoff>
-  <replacedocc>{0} occurences remplacées dans {1} documents</replacedocc>
-  <occfound>occurences trouvée</occfound>
+  <replacedoff>Remplacé dans l'offset {0}</replacedoff>
+  <replacedocc>{0} occurrences remplacées dans {1} documents</replacedocc>
+  <occfound>occurrences trouvées</occfound>
   <emptypatt>Terme de recherche vide</emptypatt>
   <novalidregex>Terme REGEX invalide</novalidregex>
   <failedcheck>Aucune mise à jour trouvée</failedcheck>
   <errorupdate>Echec lors de la recherche de mise à jour.</errorupdate>
   <versuptodate>Version à jour</versuptodate>
   <versionyour>Votre version du programme ({0}) est à jour.</versionyour>
-  <details>Details</details>
+  <versionyourbeta>Votre version beta du programme {0} est à jour.</versionyourbeta>
+  <details>Détails</details>
   <compiling>Compilation</compiling>
   <error>Erreur</error>
-  <spcompnotstarted>spcomp.exe n'as pas démarrer correctement.</spcompnotstarted>
-  <spcompnotfound>spcomp.exe n'as pas été trouvé.</spcompnotfound>
+  <spcompnotstarted>spcomp.exe n'a pas démarré correctement.</spcompnotstarted>
+  <spcompnotfound>spcomp.exe n'a pas été trouvé.</spcompnotfound>
   <copied>Copier</copied>
   <deleted>Supprimer</deleted>
   <failcopy>Echec lors de la copie</failcopy>
-  <nofilescopy>Aucun fichier copier</nofilescopy>
-  <uploaded>Upload effectué</uploaded>
-  <erroruploadfile>Erreur de l'upload avec le ficher : {0} à {1}</erroruploadfile>
-  <errorupload>Erreur lors de l'upload de fichiers</errorupload>
+  <nofilescopy>Aucun fichier copié</nofilescopy>
+  <uploaded>Envoi effectué</uploaded>
+  <erroruploadfile>Erreur lors de l'envoi du ficher : {0} à {1}</erroruploadfile>
+  <errorupload>Erreur lors de l'envoi des fichiers</errorupload>
   <done>Fait</done>
-  <file>Fichier</file>
+  <filestr>Fichier</filestr>
   <new>Nouveau</new>
+  <newtemplate>Nouveau depuis Modèle</newtemplate>
   <open>Ouvrir</open>
-  <save>Sauvgarder</save>
-  <saveall>Tout sauvgarder</saveall>
-  <saveas>Sauvgarder sous</saveas>
+  <save>Enregistrer</save>
+  <dontsave>Ne pas enregistrer</dontsave>
+  <saveall>Tout enregistrer</saveall>
+  <saveas>Enregistrer sous</saveas>
   <close>Fermer</close>
   <closeall>Tout fermer</closeall>
   <build>Build</build>
-  <copyplugin>Copier les plugins</copyplugin>
-  <sendrcon>Envoie de commandes RCon</sendrcon>
+  <copyplugins>Copier les Plugins</copyplugins>
+  <sendrcon>Envoyer les Commandes RCON</sendrcon>
   <config>Configuration</config>
   <edit>Modifier</edit>
   <undo>Annuler</undo>
   <redo>Refaire</redo>
   <cut>Couper</cut>
   <paste>Coller</paste>
-  <folding>Plier</folding>
-  <expandall>Tout déployer</expandall>
-  <collapseall>Tout refermer</collapseall>
-  <jumpto>Effectuer un saut</jumpto>
-  <togglcomment>Commenter</togglcomment>
-  <selectall>Tout selectionner</selectall>
-  <findreplace>Trouvé &amp; remplacer</findreplace>
+  <folding>Pliages</folding>
+  <foldingsexpand>Tout déployer</foldingsexpand>
+  <foldingscollapse>Tout refermer</foldingscollapse>
+  <commentline>Commenter la sélection</commentline>
+  <uncommentline>Décommenter la sélection</uncommentline>
+  <selectall>Tout sélectionner</selectall>
+  <searchreplace>Trouver &amp; Remplacer</searchreplace>
   <tools>Outils</tools>
   <options>Options</options>
-  <parsedincdir>Analysé depuis le dossier 'include'</parsedincdir>
-  <newapiweb>Ancienne API</newapiweb>
-  <betaapiweb>Nouvelle API</betaapiweb>
-  <reformatter>Reformatation de syntax</reformatter>
-  <reformatcurr>Reformater le document</reformatcurr>
+  <searchdefinition>Analysé depuis le dossier 'include'</searchdefinition>
+  <newapiweb>Référence de l'API</newapiweb>
+  <betaapiweb>(BETA) Référence de l'API</betaapiweb>
+  <reformatter>Reformateur de syntaxe</reformatter>
+  <reformatcurrent>Reformater le fichier actuel</reformatcurrent>
   <reformatall>Tout reformater</reformatall>
-  <decompile>Decompiler</decompile>
-  <reportbuggit>Reporter un bug sur GitHub</reportbuggit>
+  <decompile>Décompiler</decompile>
+  <reportbuggit>Signaler un bug sur GitHub</reportbuggit>
   <checkupdates>Vérifier les mises à jour</checkupdates>
   <about>À propos</about>
   <filename>Nom de fichier</filename>
   <line>Ligne</line>
-  <type>Type</type>
-  <normalsearch>Recherche normal</normalsearch>
-  <matchwhowords>Mot entier</matchwhowords>
-  <advancsearch>Recherche avancé</advancsearch>
+  <typestr>Type</typestr>
+  <normalsearch>Recherche normale</normalsearch>
+  <matchwholewords>Rechercher mots entiers</matchwholewords>
+  <advancsearch>Recherche avancée</advancsearch>
   <regexsearch>Recherche REGEX</regexsearch>
-  <currdoc>Document current</currdoc>
+  <currdoc>Document actuel</currdoc>
   <alldoc>Tout les documents ouverts</alldoc>
   <find>Trouver</find>
   <count>Compter</count>
-  <casesen>Sensible à la case</casesen>
-  <multilineregex>Multiligne REGEX</multilineregex>
+  <casesen>Sensible à la casse</casesen>
+  <multilineregex>REGEX Multiligne</multilineregex>
   <errorfileloadproc>Erreur lors du chargement du fichier.</errorfileloadproc>
   <notdissmethod>Impossible de désassembler la méthode {0}: {1}</notdissmethod>
-  <dfilechanged>{0} as été modifié.</dfilechanged>
+  <dfilechanged>{0} a été modifié.</dfilechanged>
   <filechanged>Fichier modifié</filechanged>
-  <filetryreload>Tenter de recharger le fichier?</filetryreload>
-  <dsaveerror>Une erreur est survenue pendant la sauvgarde.</dsaveerror>
-  <saveerror>Erreur de sauvgarde</saveerror>
+  <filetryreload>Tenter de recharger le fichier ?</filetryreload>
+  <dsaveerror>Une erreur est survenue pendant la sauvegarde.</dsaveerror>
+  <saveerror>Erreur de sauvegarde</saveerror>
   <savingfile>Enregistrement du fichier</savingfile>
   <ptabb>pt</ptabb>
   <colabb>Col</colabb>
   <lnabb>Ln</lnabb>
   <lenabb>Long.</lenabb>
-  <speditcap>un IDE sourcepawn portable</speditcap>
+  <speditcap>un éditeur SourcePawn léger</speditcap>
   <writtenby>écrit par : {0}</writtenby>
   <license>License</license>
-  <peopleinv>Personne impliquées</peopleinv>
+  <peopleinv>Personnes impliquées</peopleinv>
   <preview>Aperçu</preview>
-  <newfile>Nouveau fichier</newfile>
-  <configwrongpars>La configuration n'as pas été capable d'analyser la définition de sourcepawn.</configwrongpars>
+  <configwrongpars>La configuration n'a pas été capable d'analyser la définition de sourcepawn.</configwrongpars>
   <noname>aucun nom</noname>
   <poslen>pos: {0} - long: {1}</poslen>
-  <inheritedfr>hériter de</inheritedfr>
-  <methodfrom>Method de</methodfrom>
-  <propertyfrom>Property de</propertyfrom>
+  <inheritedfrom>hérité de</inheritedfrom>
+  <methodfrom>Méthode de</methodfrom>
+  <propertyfrom>Propriété de</propertyfrom>
   <search>Rechercher</search>
   <delete>Supprimer</delete>
   <name>Nom</name>
-  <scriptdir>Dossier de script</scriptdir>
-  <delimitedwi>Délimiter avec</delimitedwi>
+  <scriptdir>Répertoires de script</scriptdir>
+  <delimiedwi>Délimiter avec</delimiedwi>
   <copydir>Copier le dossier</copydir>
-  <serverexe>Executable du serveur</serverexe>
+  <serverexe>Exécutable du serveur</serverexe>
   <serverstartargs>Paramètres de démarage</serverstartargs>
   <prebuildcom>Paramètres de pre-build</prebuildcom>
   <postbuildcom>Paramètres de post-build</postbuildcom>
   <optimizelvl>Niveau d'optimisation</optimizelvl>
   <verboselvl>Niveau verbose</verboselvl>
   <autocopy>Copier automatiquement apres la compilation</autocopy>
+  <autoupload>Envoyer automatiquement le .smx après Compilation</autoupload>
+  <autorcon>Envoyer les Commandes RCON après Compilation</autorcon>
   <deleteoldsmx>Supprimer le vieux .smx après la copie</deleteoldsmx>
   <ftphost>Addresse de l'hôte FTP</ftphost>
   <ftpuser>Utilisateur FTP</ftpuser>
   <ftppw>Mot de passe FTP</ftppw>
   <ftpdir>Racine FTP</ftpdir>
-  <comeditordir>Dossier de l'executable de SPEdit</comeditordir>
+  <comeditordir>Dossier de l'exécutable de SPEdit</comeditordir>
   <comscriptdir>Dossier du compilateur</comscriptdir>
-  <comcopydir>Dossier dans le quel le fichier SMX devrai être copier</comcopydir>
-  <comscriptfile>Nom complet du dossier et du nom du script</comscriptfile>
+  <comcopydir>Répertoire dans lequel le fichier smx devrait être copié</comcopydir>
+  <comscriptfile>Chemin complet et Nom du script</comscriptfile>
   <comscriptname>Nom du fichier du script</comscriptname>
-  <compluginfile>Nom complet du dossier et du nom du script compilé</compluginfile>
+  <compluginfile>Chemin complet et Nom du script compilé</compluginfile>
   <compluginname>Nom du fichier du script compilé</compluginname>
-  <rconengine>Engine du serveur RCon</rconengine>
+  <rconengine>Moteur du serveur RCon</rconengine>
   <rconip>IP du serveur RCon</rconip>
   <rconport>Port du serveur RCon</rconport>
   <rconpw>Mot de passe du serveur RCon</rconpw>
-  <rconcom>Command RCon</rconcom>
+  <rconcom>Commandes Serveur RCon</rconcom>
   <compluginsreload>Recharger tous les plugins compilés</compluginsreload>
-  <compluginsloas>Charger tous les plugins compilés</compluginsloas>
+  <compluginsload>Charger tous les plugins compilés</compluginsload>
   <compluginsunload>Décharger tous les plugins compilés</compluginsunload>
   <newconfig>Nouvelle configuration</newconfig>
   <cannotdelconf>Impossible de supprimer la configuration</cannotdelconf>
-  <ycannotdelconf>Vous ne pouvez pas supprimer cette configuration!</ycannotdelconf>
-  <selectexe>Sélectionner l'executable</selectexe>
+  <ycannotdelconf>Vous ne pouvez pas supprimer cette configuration !</ycannotdelconf>
+  <selectexe>Sélectionner l'exécutable</selectexe>
   <cmdlinecom>Variable de ligne de commande</cmdlinecom>
   <rconcmdlinecom>Variable de ligne de commande Rcon</rconcmdlinecom>
-  <resetoptions>Options par défaut</resetoptions>
-  <resetoptques>Êtes vous sûre de vouloir retourner au valeur par défaut?</resetoptques>
-  <restarteditor>Redémarrer l'IDE</restarteditor>
-  <yrestarteditor>Vous devez redémarrer l'IDE pour appliquer les changement.</yrestarteditor>
-  <restartedifulleff>
-    Redémarrer l'éditeur pour que les changements prennent pleinement effet...
-  </restartedifulleff>
+  <resetoptions>Réinitialiser les options</resetoptions>
+  <resetoptques>Êtes-vous sûr de vouloir réinitialiser les options ?</resetoptques>
+  <restarteditor>Redémarrer l'Éditeur</restarteditor>
+  <yrestarteditor>Vous devez redémarrer l'éditeur pour appliquer les changements.</yrestarteditor>
+  <restartedifulleff>Redémarrer l'éditeur pour que les changements prennent pleinement effet...</restartedifulleff>
   <restartedieff>Redémarrer l'éditeur pour que les changements prennent effet...</restartedieff>
   <program>Programme</program>
-  <hardwareacc>Utilisé l'accélération matériel (si disponible)</hardwareacc>
-  <uianim>Animations GUI</uianim>
-  <openinc>Ouvrire automatiquement les includes</openinc>
-  <openincrec>Ouvrire les includes récursivement</openincrec>
-  <autoupdate>Rechercher automatiquement les mises à jour</autoupdate>
-  <showtoolbar>Afficher la toolbar</showtoolbar>
-  <dynamicisac>Autocomplete/Intellisense dynamique</dynamicisac>
-  <darktheme>Theme sombre</darktheme>
-  <themecolor>Couleur de thème</themecolor>
+  <hardwareacc>Utiliser l'accélération matérielle (si disponible)</hardwareacc>
+  <uianim>Animations de l'Interface</uianim>
+  <openinc>Ouvrir automatiquement les includes</openinc>
+  <openincrec>Ouvrir les Includes Récursivement</openincrec>
+  <autoupdate>Chercher automatiquement les mises à jour</autoupdate>
+  <showtoolbar>Afficher la barre d'outils</showtoolbar>
+  <dynamicisac>Autocomplétion Dynamique/Intellisense</dynamicisac>
+  <darktheme>Thème sombre</darktheme>
+  <themecolor>Couleur de Thème</themecolor>
   <languagestr>Langue</languagestr>
-  <editor>Editeur</editor>
+  <editor>Éditeur</editor>
   <fontsize>Taille de la police</fontsize>
-  <scrollspeed>Vitesse de scroll</scrollspeed>
+  <scrollspeed>Vitesse de défilement</scrollspeed>
   <wordwrap>Encapsulation des mots</wordwrap>
-  <aggindentation>Indentation agressive</aggindentation>
-  <reformataftersem>Reformatter la ligne apres semicolon</reformataftersem>
+  <aggindentation>Indentation Agressive</aggindentation>
+  <reformataftersem>Reformater la ligne après point-virugle</reformataftersem>
   <tabstospace>Remplacer les tabulations par des espaces</tabstospace>
-  <autoclosebrack>Fermer automtiquement les accolades</autoclosebrack>
-  <autoclosestrchr>Fermer automatique les Strings, Chars</autoclosestrchr>
-  <showsapaces>Afficher les espaces</showsapaces>
+  <autoclosebrack>Fermer automatiquement les accolades</autoclosebrack>
+  <autoclosestrchr>Fermer automatiquement les Strings, Chars</autoclosestrchr>
+  <showspaces>Afficher les espaces</showspaces>
   <showtabs>Afficher les tabulations</showtabs>
   <indentationsize>Taille de l'indentation</indentationsize>
   <fontfamily>Police</fontfamily>
-  <syntaxhigh>Mise en évidence de la syntax</syntaxhigh>
-  <highdeprecat>Mise en évidence de la syntax (&lt;1.7) obsolète</highdeprecat>
+  <syntaxhigh>Mise en évidence de la Syntaxe</syntaxhigh>
+  <highdeprecat>Mise en évidence de la syntaxe (&lt;1.7) obsolète</highdeprecat>
   <compile>Compiler</compile>
   <autosavemin>Sauvegarde automatique (min)</autosavemin>
-  <obtextfile>File Dir.</obtextfile>
-  <obtextconfig>Config Dir.</obtextconfig>
-  <obtextitem>Item Dir.</obtextitem>
-  <errorfileerror>Compile error file could not be accessed.</errorfileerror>
+  <obtextfile>Répertoire du Fichier</obtextfile>
+  <obtextconfig>Répertoire de la Config</obtextconfig>
+  <copyingfiles>Copie des fichiers</copyingfiles>
+  <ftpuploading>Envoi des fichiers</ftpuploading>
+  <rconcommand>Envoi des Commandes RCON</rconcommand>
+  <javainstallcheck>Vérification de l'installation de Java</javainstallcheck>
+  <javanotfoundtitle>Java n'a pas été trouvé</javanotfoundtitle>
+  <javanotfoundmessage>
+    SPCode nécessite Java pour décompiler les plugins, mais SPCode n'a pas réussi à le faire fonctionner,
+    peut-être car l'installation de Java est absente ou incorrecte.
+    Voulez-vous télécharger Java et l'installer maintenant ?
+  </javanotfoundmessage>
+  <javaoutdatedtitle>La version de Java trouvée est obsolète</javaoutdatedtitle>
+  <javaoutdatedmessage>
+    SPCode nécessite Java 11 SDK ou ultérieur pour décompiler des plugins,
+    mais une version obsolète a été trouvée.
+    Voulez-vous télécharger et mettre à jour Java maintenant ?
+  </javaoutdatedmessage>
+  <failedtodecompile>échec de la décompilation</failedtodecompile>
+  <downloadingjava>Téléchargement de Java</downloadingjava>
+  <fetchingjava>Récupération du fichier d'installation depuis https://adoptopenjdk.net...</fetchingjava>
+  <amountcompleted>complété</amountcompleted>
+  <amountdownloaded>téléchargé</amountdownloaded>
+  <javaopened>Fichier d'installation de Java ouvert</javaopened>
+  <javasuggestrestart>Après avoir téléchargé Java, il est hautement recommandé de relancer SPCode.</javasuggestrestart>
+  <javadownerrortitle>Erreur du téléchargement de Java</javadownerrortitle>
+  <javadownerrormessage>SPCode n'a pas pu télécharger Java par lui-même. Voulez-vous le télécharger manuellement ?</javadownerrormessage>
+  <javaopenedbrowser>Le lien de téléchargement de Java a été ouvert dans votre navigateur</javaopenedbrowser>
+  <errorsavingconfigs>Impossible d'enregistrer l'étal actuel des configurations</errorsavingconfigs>
+  <duplicateconfignames>Vous ne pouvez pas avoir 2 configs ou plus avec le même nom.</duplicateconfignames>
+  <emptyconfignames>Vous ne pouvez pas avoir de configurations sans nom.</emptyconfignames>
+  <defaultvalues>Valeurs par défaut</defaultvalues>
+  <wanttoupdate>Voulez-vous mettre à jour ?</wanttoupdate>
+  <versionavailable>La version {0} est disponible !</versionavailable>
+  <yes>Oui</yes>
+  <no>Non</no>
+  <viewgithub>Voir sur GitHub</viewgithub>
+  <updatingto>Mise à jour vers {0}</updatingto>
+  <downloadingupdater>Téléchargements des fichiers de mise à jour...</downloadingupdater>
+  <startingupdater>Lancement de la mise à jour...</startingupdater>
+  <add>Ajouter</add>
+  <remove>Retirer</remove>
+  <hardwareencryption>Chiffrement matériel</hardwareencryption>
+  <checkingupdates>Vérification des mises à jour</checkingupdates>
+  <gotoline>Aller à la ligne</gotoline>
+  <gotooffset>Aller à l'offset</gotooffset>
+  <go>Aller</go>
+  <hotkey>Raccourci</hotkey>
+  <command>Commande</command>
+  <deleteline>Supprimer la ligne</deleteline>
+  <movelinedown>Déplacer la ligne vers le bas</movelinedown>
+  <movelineup>Déplacer la ligne vers le haut</movelineup>
+  <dupelinedown>Dupliquer la ligne vers le bas</dupelinedown>
+  <dupelineup>Dupliquer la ligne vers le haut</dupelineup>
+  <inuse>En utilisation !</inuse>
+  <reserved>Réservé !</reserved>
+  <transformuppercase>Transformer en majuscule</transformuppercase>
+  <transformlowercase>Transformer en minuscule</transformlowercase>
+  <openfilelocation>Ouvrir le chemin du fichier</openfilelocation>
+  <opendirlocation>Ouvrir le chemin du répertoire</opendirlocation>
+  <rename>Renommer</rename>
+  <accept>Accepter</accept>
+  <cancel>Annuler</cancel>
+  <emptyname>Nom vide !</emptyname>
+  <namealreadyexists>Nom de fichier prit !</namealreadyexists>
+  <empty>Vide</empty>
+  <searchfiles>Chercher des fichiers</searchfiles>
+  <searchresults>Résultats de recherche</searchresults>
+  <noresultsthisdir>Aucun résultat dans ce répertoire !</noresultsthisdir>
+  <filenotsupported>Fichier non supporté !</filenotsupported>
+  <filewillbeexcluded>Le fichier sera exclu du navigateur de fichier une fois renommé.</filewillbeexcluded>
+  <expandalldirs>Déployer tous les répertoires</expandalldirs>
+  <collapsealldirs>Refermer tous les répertoires</collapsealldirs>
+  <refreshob>Recharger le répertoire actuel</refreshob>
+  <enablerpc>Activer la Rich Presence de Discord</enablerpc>
+  <enablerpctime>Montrer le temps écouler</enablerpctime>
+  <enablerpcfile>Montrer le fichier actuel</enablerpcfile>
+  <templateexists>Le nom du modèle existe déjà</templateexists>
+  <illegalcharacters>Caractères interdits</illegalcharacters>
+  <reopenlastclosedtab>Réouvrir le dernier onglet fermé</reopenlastclosedtab>
+  <defaulttaken>Par défaut prit !</defaulttaken>
+  <actioncloseprompt>Demander s'il faut enregistrer</actioncloseprompt>
 </translations>
