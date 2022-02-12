@@ -12,7 +12,7 @@ Same as before. Fork the repo, clone the `default.xml` translation file, and beg
 
 ## Translation tips and guidelines
 
-- You must not change the structure of the XML file, including the name of ___any___ node (text between `<>`).
+- You must not change the structure of the XML file, including the name of ___any___ node (text between `<>`) UNLESS you're updating a node name to match the one from `default.xml`.
 - Although the order in which you add new nodes ___does NOT matter___, try to maintain the order of the nodes in the default file.
 - To know which nodes to add, you can:
   - Search for the phrase you see in English when you switch to your language in the default file
