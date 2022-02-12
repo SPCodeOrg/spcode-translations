@@ -34,6 +34,9 @@
   <details>Details</details>
   <compiling>Compiling</compiling>
   <error>Error</error>
+  <errors>Errors</errors>
+  <warning>Warning</warning>
+  <warnings>Warnings</warnings>
   <spcompnotstarted>The spcomp.exe compiler did not start correctly.</spcompnotstarted>
   <spcompnotfound>The spcomp.exe compiler could not be found.</spcompnotfound>
   <copied>Copied</copied>
@@ -107,7 +110,7 @@
   <colabb>Col</colabb>
   <lnabb>Ln</lnabb>
   <lenabb>Len</lenabb>
-  <speditcap>a lightweight SourcePawn editor</speditcap>
+  <spcodecap>a lightweight SourcePawn editor</spcodecap>
   <writtenby>written by: {0}</writtenby>
   <license>License</license>
   <peopleinv>People involved</peopleinv>
@@ -198,29 +201,7 @@
   <copyingfiles>Copying files</copyingfiles>
   <ftpuploading>Uploading files</ftpuploading>
   <rconcommand>Sending RCON Commands</rconcommand>
-  <javainstallcheck>Checking for Java installation</javainstallcheck>
-  <javanotfoundtitle>Java was not found</javanotfoundtitle>
-  <javanotfoundmessage>
-    SPCode needs Java to decompile plugins, but it couldn't get it to work properly,
-    perhaps due to an absent or incorrect Java installation.
-    Do you wish to download and install it now?
-  </javanotfoundmessage>
-  <javaoutdatedtitle>Java version found is outdated</javaoutdatedtitle>
-  <javaoutdatedmessage>
-    SPCode requires Java 11 SDK or later to decompile plugins,
-    but an outdated version was found.
-    Do you wish to download and upgrade it now?"
-  </javaoutdatedmessage>
   <failedtodecompile>failed to decompile</failedtodecompile>
-  <downloadingjava>Downloading Java</downloadingjava>
-  <fetchingjava>Fetching installation file from https://adoptopenjdk.net...</fetchingjava>
-  <amountcompleted>completed</amountcompleted>
-  <amountdownloaded>downloaded</amountdownloaded>
-  <javaopened>Java installation file opened</javaopened>
-  <javasuggestrestart>After installing Java, it is highly recommended to restart SPCode.</javasuggestrestart>
-  <javadownerrortitle>Java download error</javadownerrortitle>
-  <javadownerrormessage>SPCode could not download Java by itself. Would you like to download it manually?</javadownerrormessage>
-  <javaopenedbrowser>Java download link opened in browser</javaopenedbrowser>
   <errorsavingconfigs>Could not save the current configs state</errorsavingconfigs>
   <duplicateconfignames>You cannot have 2 configs or more with the same name.</duplicateconfignames>
   <emptyconfignames>You cannot have configs with an empty name.</emptyconfignames>
@@ -231,8 +212,8 @@
   <no>No</no>
   <viewgithub>View on GitHub</viewgithub>
   <updatingto>Updating to {0}</updatingto>
-  <downloadingupdater>Downloading update assets...</downloadingupdater>
-  <startingupdater>Starting updater...</startingupdater>
+  <downloadingupdater>Downloading update assets</downloadingupdater>
+  <startingupdater>Starting updater</startingupdater>
   <add>Add</add>
   <remove>Remove</remove>
   <hardwareencryption>Hardware encryption</hardwareencryption>
@@ -247,8 +228,8 @@
   <movelineup>Move line up</movelineup>
   <dupelinedown>Duplicate line down</dupelinedown>
   <dupelineup>Duplicate line up</dupelineup>
-  <inuse>In use!</inuse>
-  <reserved>Reserved!</reserved>
+  <inuse>In use</inuse>
+  <reserved>Reserved</reserved>
   <transformuppercase>Transform to uppercase</transformuppercase>
   <transformlowercase>Transform to lowercase</transformlowercase>
   <openfilelocation>Open file location</openfilelocation>
@@ -257,12 +238,12 @@
   <accept>Accept</accept>
   <cancel>Cancel</cancel>
   <emptyname>Empty name!</emptyname>
-  <namealreadyexists>File name taken!</namealreadyexists>
+  <namealreadyexists>File name taken</namealreadyexists>
   <empty>Empty</empty>
   <searchfiles>Search files</searchfiles>
   <searchresults>Search results</searchresults>
-  <noresultsthisdir>No results on this directory!</noresultsthisdir>
-  <filenotsupported>File not supported!</filenotsupported>
+  <noresultsthisdir>No results on this directory</noresultsthisdir>
+  <filenotsupported>File not supported</filenotsupported>
   <filewillbeexcluded>The file will be excluded from the file browser once renamed.</filewillbeexcluded>
   <expandalldirs>Expand all directories</expandalldirs>
   <collapsealldirs>Collapse all directories</collapsealldirs>
@@ -275,4 +256,5 @@
   <reopenlastclosedtab>Reopen the last closed tab</reopenlastclosedtab>
   <defaulttaken>Default taken!</defaulttaken>
   <actioncloseprompt>Prompt whether to save</actioncloseprompt>
+  <copyerrors>Copy errors</copyerrors>
 </translations>
