@@ -238,7 +238,7 @@
   <accept>Accepter</accept>
   <cancel>Annuler</cancel>
   <emptyname>Nom vide !</emptyname>
-  <namealreadyexists>Nom de fichier prit</namealreadyexists>
+  <namealreadyexists>Nom de fichier pris</namealreadyexists>
   <empty>Vide</empty>
   <searchfiles>Chercher des fichiers</searchfiles>
   <searchresults>Résultats de recherche</searchresults>
@@ -254,7 +254,7 @@
   <templateexists>Le nom du modèle existe déjà</templateexists>
   <illegalcharacters>Caractères interdits</illegalcharacters>
   <reopenlastclosedtab>Réouvrir le dernier onglet fermé</reopenlastclosedtab>
-  <defaulttaken>Par défaut prit !</defaulttaken>
+  <defaulttaken>Par défaut pris !</defaulttaken>
   <actioncloseprompt>Demander s'il faut enregistrer</actioncloseprompt>
   <copyerrors>Copier les erreurs</copyerrors>
 </translations>
