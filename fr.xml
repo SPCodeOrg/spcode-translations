@@ -34,6 +34,9 @@
   <details>Détails</details>
   <compiling>Compilation</compiling>
   <error>Erreur</error>
+  <errors>Erreurs</errors>
+  <warning>Avertissement</warning>
+  <warnings>Avertissements</warnings>
   <spcompnotstarted>spcomp.exe n'a pas démarré correctement.</spcompnotstarted>
   <spcompnotfound>spcomp.exe n'a pas été trouvé.</spcompnotfound>
   <copied>Copier</copied>
@@ -107,7 +110,7 @@
   <colabb>Col</colabb>
   <lnabb>Ln</lnabb>
   <lenabb>Long.</lenabb>
-  <speditcap>un éditeur SourcePawn léger</speditcap>
+  <spcodecap>un éditeur SourcePawn léger</spcodecap>
   <writtenby>écrit par : {0}</writtenby>
   <license>License</license>
   <peopleinv>Personnes impliquées</peopleinv>
@@ -198,29 +201,7 @@
   <copyingfiles>Copie des fichiers</copyingfiles>
   <ftpuploading>Envoi des fichiers</ftpuploading>
   <rconcommand>Envoi des Commandes RCON</rconcommand>
-  <javainstallcheck>Vérification de l'installation de Java</javainstallcheck>
-  <javanotfoundtitle>Java n'a pas été trouvé</javanotfoundtitle>
-  <javanotfoundmessage>
-    SPCode nécessite Java pour décompiler les plugins, mais SPCode n'a pas réussi à le faire fonctionner,
-    peut-être car l'installation de Java est absente ou incorrecte.
-    Voulez-vous télécharger Java et l'installer maintenant ?
-  </javanotfoundmessage>
-  <javaoutdatedtitle>La version de Java trouvée est obsolète</javaoutdatedtitle>
-  <javaoutdatedmessage>
-    SPCode nécessite Java 11 SDK ou ultérieur pour décompiler des plugins,
-    mais une version obsolète a été trouvée.
-    Voulez-vous télécharger et mettre à jour Java maintenant ?
-  </javaoutdatedmessage>
   <failedtodecompile>échec de la décompilation</failedtodecompile>
-  <downloadingjava>Téléchargement de Java</downloadingjava>
-  <fetchingjava>Récupération du fichier d'installation depuis https://adoptopenjdk.net...</fetchingjava>
-  <amountcompleted>complété</amountcompleted>
-  <amountdownloaded>téléchargé</amountdownloaded>
-  <javaopened>Fichier d'installation de Java ouvert</javaopened>
-  <javasuggestrestart>Après avoir téléchargé Java, il est hautement recommandé de relancer SPCode.</javasuggestrestart>
-  <javadownerrortitle>Erreur du téléchargement de Java</javadownerrortitle>
-  <javadownerrormessage>SPCode n'a pas pu télécharger Java par lui-même. Voulez-vous le télécharger manuellement ?</javadownerrormessage>
-  <javaopenedbrowser>Le lien de téléchargement de Java a été ouvert dans votre navigateur</javaopenedbrowser>
   <errorsavingconfigs>Impossible d'enregistrer l'étal actuel des configurations</errorsavingconfigs>
   <duplicateconfignames>Vous ne pouvez pas avoir 2 configs ou plus avec le même nom.</duplicateconfignames>
   <emptyconfignames>Vous ne pouvez pas avoir de configurations sans nom.</emptyconfignames>
@@ -231,8 +212,8 @@
   <no>Non</no>
   <viewgithub>Voir sur GitHub</viewgithub>
   <updatingto>Mise à jour vers {0}</updatingto>
-  <downloadingupdater>Téléchargements des fichiers de mise à jour...</downloadingupdater>
-  <startingupdater>Lancement de la mise à jour...</startingupdater>
+  <downloadingupdater>Téléchargements des fichiers de mise à jour</downloadingupdater>
+  <startingupdater>Lancement de la mise à jour</startingupdater>
   <add>Ajouter</add>
   <remove>Retirer</remove>
   <hardwareencryption>Chiffrement matériel</hardwareencryption>
@@ -247,8 +228,8 @@
   <movelineup>Déplacer la ligne vers le haut</movelineup>
   <dupelinedown>Dupliquer la ligne vers le bas</dupelinedown>
   <dupelineup>Dupliquer la ligne vers le haut</dupelineup>
-  <inuse>En utilisation !</inuse>
-  <reserved>Réservé !</reserved>
+  <inuse>En utilisation</inuse>
+  <reserved>Réservé</reserved>
   <transformuppercase>Transformer en majuscule</transformuppercase>
   <transformlowercase>Transformer en minuscule</transformlowercase>
   <openfilelocation>Ouvrir le chemin du fichier</openfilelocation>
@@ -257,12 +238,12 @@
   <accept>Accepter</accept>
   <cancel>Annuler</cancel>
   <emptyname>Nom vide !</emptyname>
-  <namealreadyexists>Nom de fichier prit !</namealreadyexists>
+  <namealreadyexists>Nom de fichier prit</namealreadyexists>
   <empty>Vide</empty>
   <searchfiles>Chercher des fichiers</searchfiles>
   <searchresults>Résultats de recherche</searchresults>
-  <noresultsthisdir>Aucun résultat dans ce répertoire !</noresultsthisdir>
-  <filenotsupported>Fichier non supporté !</filenotsupported>
+  <noresultsthisdir>Aucun résultat dans ce répertoire</noresultsthisdir>
+  <filenotsupported>Fichier non supporté</filenotsupported>
   <filewillbeexcluded>Le fichier sera exclu du navigateur de fichier une fois renommé.</filewillbeexcluded>
   <expandalldirs>Déployer tous les répertoires</expandalldirs>
   <collapsealldirs>Refermer tous les répertoires</collapsealldirs>
@@ -275,4 +256,5 @@
   <reopenlastclosedtab>Réouvrir le dernier onglet fermé</reopenlastclosedtab>
   <defaulttaken>Par défaut prit !</defaulttaken>
   <actioncloseprompt>Demander s'il faut enregistrer</actioncloseprompt>
+  <copyerrors>Copier les erreurs</copyerrors>
 </translations>
