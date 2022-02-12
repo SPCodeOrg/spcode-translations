@@ -2,6 +2,9 @@ name: Push new release
 
 on:
   push:
+    branches:
+      main
+  pull_request:
     branches: 
       main
 
