@@ -257,4 +257,18 @@
   <defaulttaken>Default taken!</defaulttaken>
   <actioncloseprompt>Prompt whether to save</actioncloseprompt>
   <copyerrors>Copy errors</copyerrors>
+  <backupconfigs>Backup configs</backupconfigs>
+  <loadconfigs>Load configs</loadconfigs>
+  <macro_editordir>Directory of the SPCode binary</macro_editordir>
+  <macro_scriptdir>Directory of the compiling script</macro_scriptdir>
+  <macro_copydir>Directory where the .smx should be copied</macro_copydir>
+  <macro_scriptfile>Full directory and name of the script</macro_scriptfile>
+  <macro_scriptname>File name of the script</macro_scriptname>
+  <macro_pluginfile>Full directory and name of the compiled script</macro_pluginfile>
+  <macro_pluginname>File name of the compiled script</macro_pluginname>
+  <macro_plugins_reload>Reloads all compiled plugins</macro_plugins_reload>
+  <macro_plugins_load>Loads all compiled plugins</macro_plugins_load>
+  <macro_plugins_unload>Unloads all compiled plugins</macro_plugins_unload>
+  <PermissionAccessError>Permission access error</PermissionAccessError>
+  <PermissionAccessErrorMessage>Authorization error. You may have trouble using the includes from this directory."</PermissionAccessErrorMessage>
 </translations>
