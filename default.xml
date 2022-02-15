@@ -61,6 +61,7 @@
   <copyplugins>Copy Plugins</copyplugins>
   <sendrcon>Send RCON Commands</sendrcon>
   <config>Configuration</config>
+  <configs>Configurations</configs>
   <edit>Edit</edit>
   <undo>Undo</undo>
   <redo>Redo</redo>
@@ -163,7 +164,7 @@
   <cmdlinecom>Commandline variables</cmdlinecom>
   <rconcmdlinecom>Rcon commandline variables</rconcmdlinecom>
   <resetoptions>Reset options</resetoptions>
-  <resetoptques>Are you sure, you want to reset the options?</resetoptques>
+  <resetoptques>Are you sure you want to reset the options?</resetoptques>
   <restarteditor>Restart Editor</restarteditor>
   <yrestarteditor>You have to restart the editor for the changes to have effect.</yrestarteditor>
   <restartedifulleff>Restart editor to take full effect...</restartedifulleff>
@@ -205,7 +206,7 @@
   <errorsavingconfigs>Could not save the current configs state</errorsavingconfigs>
   <duplicateconfignames>You cannot have 2 configs or more with the same name.</duplicateconfignames>
   <emptyconfignames>You cannot have configs with an empty name.</emptyconfignames>
-  <defaultvalues>Default values</defaultvalues>
+  <defaultvalues>Reset to default</defaultvalues>
   <wanttoupdate>Do you want to update?</wanttoupdate>
   <versionavailable>Version {0} is available for download!</versionavailable>
   <yes>Yes</yes>
