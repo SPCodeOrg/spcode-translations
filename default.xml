@@ -208,7 +208,7 @@
   <emptyconfignames>You cannot have configs with an empty name.</emptyconfignames>
   <defaultvalues>Reset to default</defaultvalues>
   <wanttoupdate>Do you want to update?</wanttoupdate>
-  <versionavailable>Version {0} is available for download!</versionavailable>
+  <versionavailable>Version {0} is available for download</versionavailable>
   <yes>Yes</yes>
   <no>No</no>
   <viewgithub>View on GitHub</viewgithub>
@@ -238,7 +238,7 @@
   <rename>Rename</rename>
   <accept>Accept</accept>
   <cancel>Cancel</cancel>
-  <emptyname>Empty name!</emptyname>
+  <emptyname>Empty name</emptyname>
   <namealreadyexists>File name taken</namealreadyexists>
   <empty>Empty</empty>
   <searchfiles>Search files</searchfiles>
@@ -255,7 +255,7 @@
   <templateexists>Template name already exists</templateexists>
   <illegalcharacters>Illegal characters</illegalcharacters>
   <reopenlastclosedtab>Reopen the last closed tab</reopenlastclosedtab>
-  <defaulttaken>Default taken!</defaulttaken>
+  <defaulttaken>Default taken</defaulttaken>
   <actioncloseprompt>Prompt whether to save</actioncloseprompt>
   <copyerrors>Copy errors</copyerrors>
   <backupconfigs>Backup configs</backupconfigs>
@@ -271,5 +271,13 @@
   <macro_plugins_load>Loads all compiled plugins</macro_plugins_load>
   <macro_plugins_unload>Unloads all compiled plugins</macro_plugins_unload>
   <PermissionAccessError>Permission access error</PermissionAccessError>
-  <PermissionAccessErrorMessage>Authorization error. You may have trouble using the includes from this directory."</PermissionAccessErrorMessage>
+  <PermissionAccessErrorMessage>Authorization error. You may have trouble using the includes from this directory"</PermissionAccessErrorMessage>
+  <success>Success</success>
+  <BackupOptionsSuccessMessage>The options have been backed up successfully</BackupOptionsSuccessMessage>
+  <BackupOptionsErrorMessage>The options could not be backed up</BackupOptionsErrorMessage>
+  <LoadOptionsWarningMessage>Are you sure you want to load an options file? Your current options will be overwritten</LoadOptionsWarningMessage>
+  <LoadOptionsSuccessMessage>The selected options have been loaded successfully. Restart SPCode</LoadOptionsSuccessMessage>
+  <LoadOptionsErrorMessage>The selected options could not be loaded</LoadOptionsErrorMessage>
+  <backupoptions>Backup options</backupoptions>
+  <loadoptions>Load options</loadoptions>
 </translations>
