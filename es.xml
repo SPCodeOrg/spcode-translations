@@ -2,7 +2,6 @@
 
   <language>Español</language>
 
-  <!-- File menu item -->
   <file>Archivo</file>
   <new>Nuevo</new>
   <newfromtemplate>Nuevo desde plantilla</newfromtemplate>
@@ -16,7 +15,6 @@
   <close>Cerrar</close>
   <closeall>Cerrar todo</closeall>
 
-  <!-- Edit menu item -->
   <edit>Editar</edit>
   <undo>Deshacer</undo>
   <redo>Rehacer</redo>
@@ -32,7 +30,6 @@
   <selectall>Seleccionar todo</selectall>
   <searchreplace>Buscar y reemplazar</searchreplace>
 
-  <!-- Build menu item -->
   <build>Compilar</build>
   <compileall>Compilar todo</compileall>
   <compilecurrent>Compilar actual</compilecurrent>
@@ -41,11 +38,9 @@
   <startserver>Iniciar servidor</startserver>
   <sendrcon>Enviar comandos RCON</sendrcon>
 
-  <!-- Configuration menu item -->
   <config>Configuraciones</config>
   <editconfig>Editar configuraciones</editconfig>
 
-  <!-- Tools menu item -->
   <tools>Herramientas</tools>
   <options>Opciones</options>
   <sourcepawnapi>API de SourcePawn</sourcepawnapi>
@@ -62,7 +57,6 @@
   <help>Ayuda</help>
   <about>Acerca de</about>
 
-  <!-- Object Browser -->
   <obtextfile>Directorio del Archivo</obtextfile>
   <obtextconfig>Directorio de la Config</obtextconfig>
   <searchfiles>Buscar archivo</searchfiles>
@@ -76,7 +70,6 @@
   <collapsealldirs>Contraer todos los directorios</collapsealldirs>
   <refreshob>Refrescar la vista de archivos</refreshob>
 
-  <!-- MainWindow Misc -->
 
   <serverrunning>Servidor en ejecución</serverrunning>
   <saving>Guardando</saving>
@@ -105,7 +98,6 @@
   <rconcommand>Enviando comandos RCON</rconcommand>
   <failedtodecompile>falló en decompilarse</failedtodecompile>
 
-  <!-- Update checking -->
 
   <failedcheck>Falló al buscar</failedcheck>
   <errorupdate>Error al buscar actualizaciones.</errorupdate>
@@ -113,7 +105,6 @@
   <versionyour>Su programa con versión {0} está al día.</versionyour>
   <versionyourbeta>Su programa beta con versión {0} está al día.</versionyourbeta>
 
-  <!-- Error Grid -->
   <filename>Nombre del archivo</filename>
   <line>Línea</line>
   <type>Tipo</type>
@@ -125,11 +116,9 @@
   <copyerrors>Copiar errores</copyerrors>
   <clearlogs>Limpiar logs</clearlogs>
 
-  <!-- DASM Element -->
   <errorfileloadproc>Error al cargar y procesar el archivo.</errorfileloadproc>
   <notdissmethod>No se pudo desensamblar el método {0}: {1}</notdissmethod>
 
-  <!-- Editor Element Misc -->
   <dfilechanged>{0} ha cambiado.</dfilechanged>
   <filechanged>Archivo modificado</filechanged>
   <filetryreload>¿Recargar archivo?</filetryreload>
@@ -141,7 +130,6 @@
   <lnabb>Ln</lnabb>
   <lenabb>Len</lenabb>
 
-  <!-- Configs window -->
   <configs>Configuraciones</configs>
   <name>Nombre</name>
   <scriptdir>Directorios de scripting</scriptdir>
@@ -188,7 +176,6 @@
   <PermissionAccessError>Error de autorización</PermissionAccessError>
   <PermissionAccessErrorMessage>Error de autorización. Puede que tengas problemas para utilizar los includes y scripts de este directorio.</PermissionAccessErrorMessage>
 
-  <!-- Options window -->
   <resetoptions>Restablecer las opciones</resetoptions>
   <resetoptques>¿Estás seguro de restablecer las opciones?</resetoptques>
   <restarteditor>Reinicie el editor</restarteditor>
@@ -250,7 +237,6 @@
   <actioncloseprompt>Preguntar siempre</actioncloseprompt>
   <tabtoautocomplete>Usar tab para autocompletar</tabtoautocomplete>
 
-  <!-- Update window -->
   <wanttoupdate>¿Desea actualizar?</wanttoupdate>
   <versionavailable>La versión {0} está disponible para descargar</versionavailable>
   <viewgithub>Ver en GitHub</viewgithub>
@@ -259,7 +245,6 @@
   <startingupdater>Iniciando actualizador</startingupdater>
   <checkingupdates>Buscando actualizaciones</checkingupdates>
 
-  <!-- SP Definition window -->
   <parseddefwindow>Definiciones analizadas de SourcePawn</parseddefwindow>
   <configwrongpars>La config actual no pudo entregar definiciones analizables.</configwrongpars>
   <noname>sin nombre</noname>
@@ -268,7 +253,6 @@
   <methodfrom>método de</methodfrom>
   <propertyfrom>propiedad de</propertyfrom>
 
-  <!-- Misc -->
   <success>Éxito</success>
   <error>Error</error>
   <warning>Advertencia</warning>
@@ -281,19 +265,16 @@
   <search>Buscar</search>
   <delete>Borrar</delete>
 
-  <!-- Rename window -->
   <emptyname>Nombre vacío</emptyname>
   <namealreadyexists>Nombre de archivo tomado</namealreadyexists>
   <filenotsupported>Archivo no soportado</filenotsupported>
   <filewillbeexcluded>Una vez renombrado, el archivo será excluido de la lista de archivos.</filewillbeexcluded>
 
-  <!-- New from template window -->
   <newtemplate>Nueva Plantilla</newtemplate>
   <preview>Previsualización</preview>
   <templateexists>Nombre de plantilla tomado</templateexists>
   <illegalcharacters>Caracteres ilegales</illegalcharacters>
 
-  <!-- Search window -->
   <replace>Reemplazar</replace>
   <replaceall>Reemplazar todo</replaceall>
   <foundinoff>Encontrado en offset {0} con longitud {1}</foundinoff>
@@ -315,13 +296,11 @@
   <casesen>Distingue mayúsculas y minúsculas</casesen>
   <multilineregex>Regex multilínea</multilineregex>
 
-  <!-- Go to line window -->
   <invalidinput>Entrada inválida</invalidinput>
   <outofbounds>Fuera de rango</outofbounds>
   <gotooffset>Ir al offset</gotooffset>
   <go>Go</go>
 
-  <!-- About window -->
   <spcodecap>un editor liviano de SourcePawn</spcodecap>
   <license>Licencia</license>
   <peopleinv>Personas involucradas</peopleinv>

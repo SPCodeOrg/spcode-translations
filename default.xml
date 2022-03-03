@@ -2,7 +2,6 @@
 
   <language>English</language>
 
-  <!-- File menu item -->
   <file>File</file>
   <new>New</new>
   <newfromtemplate>New from Template</newfromtemplate>
@@ -16,7 +15,6 @@
   <close>Close</close>
   <closeall>Close all</closeall>
 
-  <!-- Edit menu item -->
   <edit>Edit</edit>
   <undo>Undo</undo>
   <redo>Redo</redo>
@@ -32,7 +30,6 @@
   <selectall>Select all</selectall>
   <searchreplace>Find &amp; Replace</searchreplace>
 
-  <!-- Build menu item -->
   <build>Build</build>
   <compileall>Compile all</compileall>
   <compilecurrent>Compile current</compilecurrent>
@@ -41,11 +38,9 @@
   <startserver>Start server</startserver>
   <sendrcon>Send RCON Commands</sendrcon>
 
-  <!-- Configuration menu item -->
   <config>Configuration</config>
   <editconfig>Edit Configurations</editconfig>
 
-  <!-- Tools menu item -->
   <tools>Tools</tools>
   <options>Options</options>
   <sourcepawnapi>SourcePawn API</sourcepawnapi>
@@ -62,7 +57,6 @@
   <help>Help</help>
   <about>About</about>
 
-  <!-- Object Browser -->
   <obtextfile>File Directory</obtextfile>
   <obtextconfig>Config Directory</obtextconfig>
   <searchfiles>Search files</searchfiles>
@@ -76,7 +70,6 @@
   <collapsealldirs>Collapse all directories</collapsealldirs>
   <refreshob>Reload directories view</refreshob>
 
-  <!-- MainWindow Misc -->
 
   <serverrunning>Server running</serverrunning>
   <saving>Saving</saving>
@@ -105,7 +98,6 @@
   <rconcommand>Sending RCON Commands</rconcommand>
   <failedtodecompile>failed to decompile</failedtodecompile>
 
-  <!-- Update checking -->
 
   <failedcheck>Failed to check</failedcheck>
   <errorupdate>Error while checking for updates.</errorupdate>
@@ -113,7 +105,6 @@
   <versionyour>Your program version {0} is up to date.</versionyour>
   <versionyourbeta>Your beta program version {0} is up to date.</versionyourbeta>
 
-  <!-- Error Grid -->
   <filename>File Name</filename>
   <line>Line</line>
   <type>Type</type>
@@ -125,11 +116,9 @@
   <copyerrors>Copy errors</copyerrors>
   <clearlogs>Clear logs</clearlogs>
 
-  <!-- DASM Element -->
   <errorfileloadproc>Error while loading and processing the file.</errorfileloadproc>
   <notdissmethod>Could not disassemble method {0}: {1}</notdissmethod>
 
-  <!-- Editor Element Misc -->
   <dfilechanged>{0} has changed.</dfilechanged>
   <filechanged>File changed</filechanged>
   <filetryreload>Try reloading file?</filetryreload>
@@ -141,7 +130,6 @@
   <lnabb>Ln</lnabb>
   <lenabb>Len</lenabb>
 
-  <!-- Configs window -->
   <configs>Configurations</configs>
   <name>Name</name>
   <scriptdir>Scripting directories</scriptdir>
@@ -177,7 +165,6 @@
   <PermissionAccessError>Permission access error</PermissionAccessError>
   <PermissionAccessErrorMessage>Authorization error. You may have trouble using the includes from this directory</PermissionAccessErrorMessage>
 
-  <!-- Options window -->
   <resetoptions>Reset options</resetoptions>
   <resetoptques>Are you sure you want to reset the options?</resetoptques>
   <restarteditor>Restart Editor</restarteditor>
@@ -239,7 +226,6 @@
   <actioncloseprompt>Prompt whether to save</actioncloseprompt>
   <tabtoautocomplete>Use Tab to autocomplete</tabtoautocomplete>
 
-  <!-- Options Window Macros -->
   <macros>Macros</macros>
   <macro_editordir>Directory of the SPCode binary</macro_editordir>
   <macro_scriptdir>Directory of the compiling script</macro_scriptdir>
@@ -252,7 +238,6 @@
   <macro_plugins_load>Loads all compiled plugins</macro_plugins_load>
   <macro_plugins_unload>Unloads all compiled plugins</macro_plugins_unload>
 
-  <!-- Update window -->
   <wanttoupdate>Do you want to update?</wanttoupdate>
   <versionavailable>Version {0} is available for download</versionavailable>
   <viewgithub>View on GitHub</viewgithub>
@@ -261,7 +246,6 @@
   <startingupdater>Starting updater</startingupdater>
   <checkingupdates>Checking for updates</checkingupdates>
 
-  <!-- SP Definition window -->
   <parseddefwindow>SourcePawn parsed definitions</parseddefwindow>
   <configwrongpars>The config was not able to parse a sourcepawn definition.</configwrongpars>
   <noname>no name</noname>
@@ -270,7 +254,6 @@
   <methodfrom>Method from</methodfrom>
   <propertyfrom>Property from</propertyfrom>
 
-  <!-- Misc -->
   <success>Success</success>
   <error>Error</error>
   <warning>Warning</warning>
@@ -283,19 +266,16 @@
   <search>Search</search>
   <delete>Delete</delete>
 
-  <!-- Rename window -->
   <emptyname>Empty name</emptyname>
   <namealreadyexists>File name taken</namealreadyexists>
   <filenotsupported>File not supported</filenotsupported>
   <filewillbeexcluded>The file will be excluded from the file browser once renamed.</filewillbeexcluded>
 
-  <!-- New from template window -->
   <newtemplate>New Template</newtemplate>
   <preview>Preview</preview>
   <templateexists>Template name already exists</templateexists>
   <illegalcharacters>Illegal characters</illegalcharacters>
 
-  <!-- Search window -->
   <replace>Replace</replace>
   <replaceall>Replace all</replaceall>
   <foundinoff>Found in offset {0} with length {1}</foundinoff>
@@ -317,13 +297,11 @@
   <casesen>Case sensitive</casesen>
   <multilineregex>Multiline Regex</multilineregex>
 
-  <!-- Go to line window -->
   <invalidinput>Invalid input</invalidinput>
   <outofbounds>Out of bounds</outofbounds>
   <gotooffset>Go to offset</gotooffset>
   <go>Go</go>
 
-  <!-- About window -->
   <spcodecap>a lightweight SourcePawn editor</spcodecap>
   <license>License</license>
   <peopleinv>People involved</peopleinv>
