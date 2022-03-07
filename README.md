@@ -16,7 +16,7 @@ Simply, below the first node called `<language>`, add a node called `<rtl>` and 
 ```xml
 <rtl>true</rtl>
 ```
-If your language is NOT RTL, <ins>you do Nnot need to do anything</ins>.
+If your language is NOT RTL, <ins>you do not need to do anything</ins>.
 
 ## Translation tips and guidelines
 
