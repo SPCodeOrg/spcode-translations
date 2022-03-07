@@ -238,7 +238,7 @@
   <macro_plugins_load>Loads all compiled plugins</macro_plugins_load>
   <macro_plugins_unload>Unloads all compiled plugins</macro_plugins_unload>
 
-  <wanttoupdate>Do you want to update?</wanttoupdate>
+  <wanttoupdate>Do you want to update from version {0} to {1}?</wanttoupdate>
   <versionavailable>Version {0} is available for download</versionavailable>
   <viewgithub>View on GitHub</viewgithub>
   <updatingto>Updating to {0}</updatingto>
