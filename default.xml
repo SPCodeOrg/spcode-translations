@@ -164,7 +164,11 @@
   <loadconfigs>Load configs</loadconfigs>
   <PermissionAccessError>Permission access error</PermissionAccessError>
   <PermissionAccessErrorMessage>Authorization error. You may have trouble using the includes from this directory</PermissionAccessErrorMessage>
-
+  <TestingFTPConn>Testing the FTP/SFTP connection...</TestingFTPConn>
+  <TestingRCONConn>Testing the RCON connection...</TestingRCONConn>
+  <RCONFailureMessage>The provided details don't point to a valid running SRCDS instance, or your IP has been banned from it.</RCONFailureMessage>
+  <InvalidCredentials>Invalid credentials</InvalidCredentials>
+  
   <resetoptions>Reset options</resetoptions>
   <resetoptques>Are you sure you want to reset the options?</resetoptques>
   <restarteditor>Restart Editor</restarteditor>
@@ -265,6 +269,7 @@
   <remove>Remove</remove>
   <search>Search</search>
   <delete>Delete</delete>
+  <pleasewait>Please wait...</pleasewait>
 
   <emptyname>Empty name</emptyname>
   <namealreadyexists>File name taken</namealreadyexists>
