@@ -1,0 +1,314 @@
+<translations>
+
+  <language>Italiano</language>
+
+  <file>File</file>
+  <new>Nuovo</new>
+  <newfromtemplate>Nuovo da template</newfromtemplate>
+  <open>Apri</open>
+  <recentfiles>File recenti</recentfiles>
+  <clearrecent>Pulisci file recenti</clearrecent>
+  <reopenlastclosedtab>Riapri l'ultima finestra chiusa</reopenlastclosedtab>
+  <save>Salva</save>
+  <saveall>Salva tutti</saveall>
+  <saveas>Salva con nome</saveas>
+  <close>Chiudi</close>
+  <closeall>Chiudi tutto</closeall>
+
+  <edit>Modifica</edit>
+  <undo>Annulla</undo>
+  <redo>Ripeti</redo>
+  <cut>Taglia</cut>
+  <copy>Copia</copy>
+  <paste>Incolla</paste>
+  <folding>Sezioni</folding>
+  <foldingsexpand>Espandi tutte</foldingsexpand>
+  <foldingscollapse>Raggruppa tutte</foldingscollapse>
+  <gotoline>Vai alla linea</gotoline>
+  <commentline>Commenta selezione</commentline>
+  <uncommentline>Decommanta selezione</uncommentline>
+  <selectall>Seleziona tutto</selectall>
+  <searchreplace>Trova &amp; Sostituisci</searchreplace>
+
+  <build>Compila</build>
+  <compileall>Compila tutto</compileall>
+  <compilecurrent>Compila file corrente</compilecurrent>
+  <copyplugins>Copia plugin</copyplugins>
+  <uploadftp>Upload FTP</uploadftp>
+  <startserver>Avvia server</startserver>
+  <sendrcon>Invia comandi RCON</sendrcon>
+
+  <config>Configurazione</config>
+  <editconfig>Modifica configurazioni</editconfig>
+
+  <tools>Strumenti</tools>
+  <options>Opzioni</options>
+  <sourcepawnapi>API SourcePawn</sourcepawnapi>
+  <searchdefinition>Analizzata dalla cartella include</searchdefinition>
+  <newapiweb>API Reference</newapiweb>
+  <betaapiweb>(BETA) API Reference</betaapiweb>
+  <reformatter>Riformatta sintassi</reformatter>
+  <reformatcurrent>Riformatta file corrente</reformatcurrent>
+  <reformatall>Riformatta tutti</reformatall>
+  <decompile>Decompila plugin</decompile>
+  <reportbuggit>Segnala bug su GitHub</reportbuggit>
+  <openchangelog>Apri Changelog</openchangelog>
+  <checkupdates>Controlla aggiornamenti</checkupdates>
+  <help>Aiuto</help>
+  <about>Informazioni</about>
+
+  <obtextfile>Cartella File</obtextfile>
+  <obtextconfig>Cartella Config</obtextconfig>
+  <searchfiles>Cerca files</searchfiles>
+  <searchresults>Risultati ricerca</searchresults>
+  <noresultsthisdir>Nessun risultato in questa cartella</noresultsthisdir>
+  <openfilelocation>Apri posizione file</openfilelocation>
+  <opendirlocation>Apri posizione cartella</opendirlocation>
+  <rename>Rinomina</rename>
+  <empty>Svuota</empty>
+  <expandalldirs>Espandi tutte le cartelle</expandalldirs>
+  <collapsealldirs>Raggurppa tutte le cartelle</collapsealldirs>
+  <refreshob>Ricarica visualizzazione cartelle</refreshob>
+
+
+  <serverrunning>Server avviato</serverrunning>
+  <saving>Salvare</saving>
+  <dontsave>Non salvare</dontsave>
+  <savingufiles>Salvare tutti i file non salvati?</savingufiles>
+  <opennewfile>Apri nuovo file</opennewfile>
+  <nofileopened>Nessun file aperto</nofileopened>
+  <nofileopenedcap>Nessuno dei file selezionati può essere aperto.</nofileopenedcap>
+  <savefileas>Salva file come</savefileas>
+  <savefollow>Salva i seguenti file</savefollow>
+  <chdecomp>Selezione plugin da decompilare</chdecomp>
+  <decompiling>Decompilazione</decompiling>
+  <spcompnotstarted>Il compilatore spcomp.exe non si è avviato correntamente.</spcompnotstarted>
+  <spcompnotfound>Il compilatore spcomp.exe non è stato trovato.</spcompnotfound>
+  <compiling>Compilando</compiling>
+  <copied>Copiato</copied>
+  <deleted>Cancellato</deleted>
+  <failcopy>Impossibile copiare</failcopy>
+  <nofilescopy>Nessun file copiato</nofilescopy>
+  <uploaded>Caricato.</uploaded>
+  <erroruploadfile>Errore durante il caricamento del file: {0} a {1}</erroruploadfile>
+  <errorupload>Errore durante il caricamento dei file</errorupload>
+  <done>Completato</done>
+  <copyingfiles>Copiando i file</copyingfiles>
+  <ftpuploading>Caricando i file</ftpuploading>
+  <rconcommand>Invio comandi RCON</rconcommand>
+  <failedtodecompile>decompilazione fallita</failedtodecompile>
+
+
+  <failedcheck>Impossibile controllare</failedcheck>
+  <errorupdate>Errore durante il controllo degli aggiornamenti.</errorupdate>
+  <versuptodate>Versione aggiornata</versuptodate>
+  <versionyour>La tua versione del programma {0} è aggiornata.</versionyour>
+  <versionyourbeta>La tua versione beta del programma {0} è aggiornata.</versionyourbeta>
+
+  <filename>Nome file</filename>
+  <line>Linea</line>
+  <type>Tipo</type>
+  <details>Dettagli</details>
+  <status_error>{0} errore</status_error>
+  <status_errors>{0} errori</status_errors>
+  <status_warning>{0} avviso</status_warning>
+  <status_warnings>{0} avvisi</status_warnings>
+  <copyerrors>Copia errori</copyerrors>
+  <clearlogs>Pulisci log</clearlogs>
+
+  <errorfileloadproc>Errore durante il caricamento e l'elaborazione del file.</errorfileloadproc>
+  <notdissmethod>Impossibile disassemblare il metodo {0}: {1}</notdissmethod>
+
+  <dfilechanged>{0} è cambiato.</dfilechanged>
+  <filechanged>File cambiato</filechanged>
+  <filetryreload>Prova a ricare il file?</filetryreload>
+  <dsaveerror>Si è verificato un errore durante il salvataggio.</dsaveerror>
+  <saveerror>Errore salvataggio</saveerror>
+  <savingfile>Salvanto il file</savingfile>
+  <ptabb>pt</ptabb>
+  <colabb>Col</colabb>
+  <lnabb>Ln</lnabb>
+  <lenabb>Len</lenabb>
+
+  <configs>Configurazioni</configs>
+  <name>Nome</name>
+  <scriptdir>Cartelle di scripting</scriptdir>
+  <copydir>Cartella destinazione</copydir>
+  <serverexe>Eseguibile server</serverexe>
+  <serverstartargs>Argomenti di avvio del server</serverstartargs>
+  <prebuildcom>Comandi pre-compilazione</prebuildcom>
+  <postbuildcom>Comandi post-compilazione</postbuildcom>
+  <optimizelvl>Livello ottimizzazione</optimizelvl>
+  <verboselvl>Livello verbosità</verboselvl>
+  <autocopy>Copia automaticamente dopo la compilazione</autocopy>
+  <autoupload>Carica automaticamente il file .smx dopo la compilazione</autoupload>
+  <autorcon>Invia comandi RCON dopo la compilazione</autorcon>
+  <deleteoldsmx>Elimina il vecchio .smx dopo la compilazione</deleteoldsmx>
+  <ftphost>Host FTP</ftphost>
+  <ftpuser>Utente FTP</ftpuser>
+  <ftppw>Password FTP</ftppw>
+  <ftpdir>Cartella FTP</ftpdir>
+  <rconip>IP Server RCon</rconip>
+  <rconport>Porta Server RCon</rconport>
+  <rconpw>Password Server RCon</rconpw>
+  <rconcom>Comandi Server RCon</rconcom>
+  <newconfig>Nuova configurazione</newconfig>
+  <cannotdelconf>Impossibile eliminare la configurazione</cannotdelconf>
+  <ycannotdelconf>Non puoi eliminare la configurazione di default.</ycannotdelconf>
+  <selectexe>Seleziona eseguibile</selectexe>
+  <errorsavingconfigs>Impossibile salvare la configurazione attualmente</errorsavingconfigs>
+  <duplicateconfignames>Non puoi avere 2 configurazione con lo stesso nome.</duplicateconfignames>
+  <emptyconfignames>Non puoi avere una configurazione con lo stesso nome.</emptyconfignames>
+  <defaultvalues>Reimposta default</defaultvalues>
+  <backupconfigs>Backup configurazioni</backupconfigs>
+  <loadconfigs>Carica configurazioni</loadconfigs>
+  <PermissionAccessError>Errore di accesso per autorizzazione</PermissionAccessError>
+  <PermissionAccessErrorMessage>Errore di autorizzazione. Potresti avere problemi a usare gli include da questa directory</PermissionAccessErrorMessage>
+  <TestingFTPConn>Testando la connessione FTP/SFTP...</TestingFTPConn>
+  <TestingRCONConn>Testando la connessione RCON...</TestingRCONConn>
+  <RCONFailureMessage>I dettagli forniti non puntano a un'istanza di SRCDS in esecuzione valida o il tuo IP è stato bannato dal server.</RCONFailureMessage>
+  <InvalidCredentials>Credenziali non valide</InvalidCredentials>
+  
+  <resetoptions>Reimposta opzioni</resetoptions>
+  <resetoptques>Sei sicuro di voler resettare le opzioni?</resetoptques>
+  <restarteditor>Riavvia editor</restarteditor>
+  <yrestarteditor>Devi riavviare l'editor per far si che le modifiche per abbiano effetto.</yrestarteditor>
+  <program>Programma</program>
+  <hardwareacc>Utilizza accelerazione hardware (se disponibile)</hardwareacc>
+  <uianim>Animazioni UI</uianim>
+  <hardwareencryption>Crittografia hardware.</hardwareencryption>
+  <openinc>Apri automaticamente gli includes</openinc>
+  <openincrec>Apri gli include ricorsivamente</openincrec>
+  <autoupdate>Controlla automaticamente gli aggiornamenti</autoupdate>
+  <showtoolbar>Mostra toolbar</showtoolbar>
+  <dynamicisac>Autocomplete/Intellisense dinamico</dynamicisac>
+  <darktheme>Tema scuro</darktheme>
+  <themecolor>Color tema</themecolor>
+  <languagestr>Lingua</languagestr>
+  <editor>Editor</editor>
+  <fontsize>Grandezza font</fontsize>
+  <scrollspeed>Velocità scroll</scrollspeed>
+  <wordwrap>Word wrap</wordwrap>
+  <aggindentation>Indentazione aggressiva</aggindentation>
+  <reformataftersem>Riformatta linea dopo punto e virgola</reformataftersem>
+  <tabstospace>Sostituisci tab con spazi</tabstospace>
+  <autoclosebrack>Chiudi automaticamente le parentesi</autoclosebrack>
+  <autoclosestrchr>Chiude automaticamente le doppie e singole virgolette</autoclosestrchr>
+  <showspaces>Mostra spazi</showspaces>
+  <showtabs>Mostra tab</showtabs>
+  <indentationsize>Dimensioni dell'indentazione</indentationsize>
+  <fontfamily>Font</fontfamily>
+  <syntaxhigh>Evidenziazione della sintassi</syntaxhigh>
+  <highdeprecat>Evidenziare la sintassi deprecata</highdeprecat>
+  <compile>Compila</compile>
+  <autosavemin>Auto-salvataggio (min)</autosavemin>
+  <hotkey>Hotkey</hotkey>
+  <hotkeys>Hotkeys</hotkeys>
+  <command>Comando</command>
+  <deleteline>Elimina line</deleteline>
+  <movelinedown>Muovi linea sotto</movelinedown>
+  <movelineup>Muovi linea sopra</movelineup>
+  <dupelinedown>Duplica linea sotto</dupelinedown>
+  <dupelineup>Duplica linea sopra</dupelineup>
+  <inuse>In uso</inuse>
+  <reserved>Riservata</reserved>
+  <transformuppercase>Transofrma in maiuscolo</transformuppercase>
+  <transformlowercase>Transforma in minuscolo</transformlowercase>
+  <enablerpc>Attiva la presenza in Discord</enablerpc>
+  <enablerpctime>Mostra tempo trascorso</enablerpctime>
+  <enablerpcfile>Mostra file attuale</enablerpcfile>
+  <defaulttaken>Predefinito preso</defaulttaken>
+  <BackupOptionsSuccessMessage>Le opzioni sono state salvata con successo</BackupOptionsSuccessMessage>
+  <BackupOptionsErrorMessage>Le opzioni non possono essere salvate</BackupOptionsErrorMessage>
+  <LoadOptionsWarningMessage>Sicuro di voler caricare le opzioni? Le opzioni attuali saranno sovrascritte</LoadOptionsWarningMessage>
+  <LoadOptionsSuccessMessage>Opzioni caricate correttamente. Riavvia SPCode</LoadOptionsSuccessMessage>
+  <LoadOptionsErrorMessage>Le opzioni selezionate non possono essere caricate</LoadOptionsErrorMessage>
+  <backupoptions>Salva opzioni</backupoptions>
+  <loadoptions>Carica opzioni</loadoptions>
+  <reloadlanguage>Ricarica traduzione</reloadlanguage>
+  <actiononclose>Azione a chiusura</actiononclose>
+  <actioncloseprompt>Avvisa se salvare</actioncloseprompt>
+  <tabtoautocomplete>Usa Tab per autocompletare</tabtoautocomplete>
+
+  <macros>Macro</macros>
+  <macro_editordir>Cartella del binario SPCode</macro_editordir>
+  <macro_scriptdir>Cartello dello script di compilazione</macro_scriptdir>
+  <macro_copydir>Cartella dove il file .smx deve essere copiato</macro_copydir>
+  <macro_scriptfile>Cartella e nome del file dello script</macro_scriptfile>
+  <macro_scriptname>Nome completo dello script</macro_scriptname>
+  <macro_pluginfile>Cartella e nome dello script compilato</macro_pluginfile>
+  <macro_pluginname>Nome dello script compilato</macro_pluginname>
+  <macro_plugins_reload>Ricarica tutti i plugin compilati</macro_plugins_reload>
+  <macro_plugins_load>Caricati tutti i plugin compilati</macro_plugins_load>
+  <macro_plugins_unload>Disattiva tutti i plugin compilati</macro_plugins_unload>
+
+  <wanttoupdate>Vuoi aggiornare dalla versione {0} alla {1}?</wanttoupdate>
+  <versionavailable>Versione {0} è disponibile per il download</versionavailable>
+  <viewgithub>Guarda su GitHub</viewgithub>
+  <updatingto>Aggiornando a {0}</updatingto>
+  <downloadingupdater>Scarico i file per l'aggiornamento</downloadingupdater>
+  <startingupdater>Avviando l'aggiornamento</startingupdater>
+  <checkingupdates>Verifica aggiornamenti</checkingupdates>
+
+  <parseddefwindow>Definizioni SourcePawn analizzate</parseddefwindow>
+  <configwrongpars>La configurazione non è riuscita a analizzare una sourcepawn definition.</configwrongpars>
+  <noname>nessun nome</noname>
+  <poslen>(posizione: {0} - lunghezza: {1})</poslen>
+  <inheritedfrom>derivato da</inheritedfrom>
+  <methodfrom>Metodo da</methodfrom>
+  <propertyfrom>Property da</propertyfrom>
+
+  <success>Successo</success>
+  <error>Errore</error>
+  <warning>Avviso</warning>
+  <yes>Sì</yes>
+  <no>No</no>
+  <accept>Accetta</accept>
+  <cancel>Annulla</cancel>
+  <add>Aggiungi</add>
+  <remove>Rimuovi</remove>
+  <search>Cerca</search>
+  <delete>Elimina</delete>
+  <pleasewait>Attendere...</pleasewait>
+
+  <emptyname>Nome vuoto</emptyname>
+  <namealreadyexists>Nome del file già esistente</namealreadyexists>
+  <filenotsupported>File non supportanto</filenotsupported>
+  <filewillbeexcluded>Il file verrà escluso dal browser file una volta rinominato.</filewillbeexcluded>
+
+  <newtemplate>Nuovo template</newtemplate>
+  <preview>Antemprima</preview>
+  <templateexists>Nome template già esistente</templateexists>
+  <illegalcharacters>Caratteri non permessi</illegalcharacters>
+
+  <replace>Sostituisci</replace>
+  <replaceall>Sostituisci tutto</replaceall>
+  <foundinoff>Trovato all'offset {0} con lunghezza {1}</foundinoff>
+  <foundnothing>Nessuna corrispondenza</foundnothing>
+  <replacedoff>Sostituito all'offset {0}</replacedoff>
+  <replacedocc>Sostituite {0} corrispondenze in {1} documenti</replacedocc>
+  <occfound>corrispondenze trovate</occfound>
+  <emptypatt>Pattern regex vuota</emptypatt>
+  <novalidregex>Pattern regex non valida</novalidregex>
+  <normalsearch>Ricerca normale</normalsearch>
+  <matchwholewords>Ricerca parole intere</matchwholewords>
+  <advancsearch>Ricerca Avanzata</advancsearch>
+  <advancsearchdetails>Speciale e escape \n, \s, \t</advancsearchdetails>
+  <regexsearch>Ricerca Regex</regexsearch>
+  <currdoc>Documento corrente</currdoc>
+  <alldoc>Tutti i documenti aperti</alldoc>
+  <find>Trova</find>
+  <count>Numero</count>
+  <casesen>Case sensitive</casesen>
+  <multilineregex>Multiline Regex</multilineregex>
+
+  <invalidinput>Inserimento non valido</invalidinput>
+  <outofbounds>Fuori dai limiti</outofbounds>
+  <gotooffset>Vai all'offset</gotooffset>
+  <go>Vai</go>
+
+  <spcodecap>il leggero editor per SourcePawn</spcodecap>
+  <license>Licenza</license>
+  <peopleinv>Persone coinvolte</peopleinv>
+
+</translations>
