@@ -162,7 +162,7 @@
   <defaultvalues>Reset to default</defaultvalues>
   <backupconfigs>Backup configs</backupconfigs>
   <loadconfigs>Load configs</loadconfigs>
-  <PermissionAccessError>Permission access error</PermissionAccessError>
+  <PermissionAccessError>Unauthorized access error</PermissionAccessError>
   <PermissionAccessErrorMessage>Authorization error. You may have trouble using the includes from this directory</PermissionAccessErrorMessage>
   <TestingFTPConn>Testing the FTP/SFTP connection...</TestingFTPConn>
   <TestingRCONConn>Testing the RCON connection...</TestingRCONConn>
