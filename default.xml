@@ -168,6 +168,7 @@
   <TestingRCONConn>Testing the RCON connection...</TestingRCONConn>
   <RCONFailureMessage>The provided details don't point to a valid running SRCDS instance, or your IP has been banned from it.</RCONFailureMessage>
   <InvalidCredentials>Invalid credentials</InvalidCredentials>
+  <TestConnection>Test connection</TestConnection>
   
   <resetoptions>Reset options</resetoptions>
   <resetoptques>Are you sure you want to reset the options?</resetoptques>
