@@ -115,6 +115,7 @@
   <status_warnings>{0} warnings</status_warnings>
   <copyerrors>Copy errors</copyerrors>
   <clearlogs>Clear logs</clearlogs>
+  <dontoutputfile>Don't output file</dontoutputfile>
 
   <errorfileloadproc>Error while loading and processing the file.</errorfileloadproc>
   <notdissmethod>Could not disassemble method {0}: {1}</notdissmethod>
