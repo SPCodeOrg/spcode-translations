@@ -183,6 +183,7 @@
   <hardwareacc>Use hardware acceleration (if available)</hardwareacc>
   <uianim>UI animations</uianim>
   <hardwareencryption>Hardware encryption</hardwareencryption>
+  <useblendeffect>Enable blend effect</useblendeffect>
   <openinc>Auto open includes</openinc>
   <openincrec>Open Includes Recursively</openincrec>
   <autoupdate>Search automatically for updates</autoupdate>

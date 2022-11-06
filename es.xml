@@ -184,6 +184,7 @@
   <hardwareacc>Usar aceleración por hardware</hardwareacc>
   <uianim>Animaciones de UI</uianim>
   <hardwareencryption>Encriptación por hardware</hardwareencryption>
+  <useblendeffect>Activar efecto de difuminado</useblendeffect>
   <openinc>Abrir includes automáticamente</openinc>
   <openincrec>Abrir includes recursivamente</openincrec>
   <autoupdate>Buscar actualizaciones automáticamente</autoupdate>
